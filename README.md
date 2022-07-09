@@ -1,1 +1,2 @@
-# VamshiStaticwebsite
+# VamshiMyStaticWebsite
+# StaticWebsite
